@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.jours-semaine {
+    display: flex;
+}
+
+.jour {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    background-color: lightblue;
+}
+.petit-dejeuner {
+    margin-top: 20px;
+}
+
+.petit-dej {
+    display: none;
+    padding: 10px;
+    margin: 5px;
+    background-color: #ffe6b3;
+}
+
+.plats {
+    margin-top: 20px;
+}
+
+.plat {
+    display: none;
+    padding: 10px;
+    margin: 5px;
+    background-color: lightgreen;
+}
+.diner {
+    margin-top: 20px;
+}
+
+.diner-jour {
+    display: none;
+    padding: 10px;
+    margin: 5px;
+    background-color:lightsalmon; }
